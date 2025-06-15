@@ -4,7 +4,7 @@ import Desenvolvedor from "JPeverada";
 class SobreMim extends Desenvolvedor {
   nome = "João Peverada";
   area = "Full-Stack";
-  local = "Pelotas";
+  local = "RS";
 }
 
 ```
