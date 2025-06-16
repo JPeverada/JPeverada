@@ -7,6 +7,7 @@
 🔭 Atualmente estudando **Análise e Desenvolvimento de Sistemas**  
 🌱 Focado em desenvolvimento web, bots, automações e análise de dados  
 🎯 Sempre buscando aprender e evoluir!
+
 ---
 
 ## 🚀 Minhas Skills
