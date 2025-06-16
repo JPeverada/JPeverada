@@ -1,27 +1,33 @@
-```js
-import Desenvolvedor from "JPeverada";
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=1000&lines=Jo%C3%A3o+Peverada)](https://git.io/typing-svg)
 
-class SobreMim extends Desenvolvedor {
-  nome = "João Peverada";
-  area = "Full-Stack";
-  local = "RS";
-}
+<div align="center">
 
-```
+### 👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
 
+🔭 Atualmente estudando **Análise e Desenvolvimento de Sistemas**  
+🌱 Focado em desenvolvimento web, bots, automações e análise de dados  
+🎯 Sempre buscando evoluir e construir projetos úteis e práticos
+
+---
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgress"/></code>
-<code><img height="32" src="https://images.steamusercontent.com/ugc/10591225208381694712/49864EFDD157220EB8AC75C36DC83C9CBC8558F9/" alt="VSCode"/></code>
-<code><img height="32" src="https://images.icon-icons.com/70/PNG/512/ubuntu_14143.png" alt="Ubuntu"/></code>
-<code><img height="32" src="https://img.icons8.com/color/512/windows-10.png" alt="Windows"/></code>
+### 💻 Linguagens
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+<img height="40" src="https://img.icons8.com/fluent/512/css3.png" alt="CSS"/>
 
+### 🌐 Banco de Dados
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
 
+### ⚙️ Ferramentas
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
+<img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" alt="Sublime Text" title="Sublime Text"/>
+<img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 
+---
 
+</div>
